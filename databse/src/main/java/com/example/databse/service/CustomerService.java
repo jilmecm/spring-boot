@@ -8,6 +8,14 @@ import org.springframework.stereotype.Service;
 import java.util.List;
 import java.util.Optional;
 
+
+/**
+ * que son las annotations Service Component Repository y que hace cada una de ellas
+ * que es injection dependency en java y spring boot
+ * por que se usa mucho en spring boot application
+ * **/
+
+
 @Service // TODO...
 public class CustomerService implements CustomerInterface {
 
